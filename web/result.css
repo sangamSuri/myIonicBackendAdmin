@@ -1,0 +1,49 @@
+body
+{
+	
+	background-color:#e8f3f8;
+}
+h2
+{
+	text-align:center;
+	font-size:50px;
+	color:steelblue;
+}
+form
+{
+	
+	margin:20px auto;
+	width:320px;
+	color:steelblue;
+	
+	
+}
+select
+{
+	padding:10px;
+	font-size:inherit;
+	display:block;
+	margin-bottom:30px;
+	width:60%;
+	border:4px solid steelblue;
+	border-radius:7px;
+	
+}
+input[type="submit"]
+{
+	
+	border-radius:7px;
+	width:100px;
+	border:none;
+	background:steelblue;
+	color:white;
+	height:30px;
+	
+}
+input[type="file"]
+{
+	border-radius:7px;
+	
+	
+	height:30px;
+}
